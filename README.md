@@ -1,12 +1,7 @@
-# [PROJECT] Knowledge Base
+# Nimbus Analytics
 
-Welcome to the knowledge base template for [PROJECT_NAME].
+Nimbus Analytics is a product analytics platform that helps product teams measure, understand, and optimize user behavior across web and mobile applications.
 
-This repository is scaffolded from a documentation template. Before going live:
+> "Understand your users, one event at a time."
 
-- Replace the configuration values in `_config.yml`.
-- Replace this landing page with a product introduction.
-- Remove sample content under `docs/`, `guides/`, `blog/`, and `examples/`.
-- Add real documentation content.
-
-[PLACEHOLDER: This is a template landing page.]
+This knowledge base is the official documentation home for Nimbus Analytics. Here you will find product introductions, installation instructions, API reference material, and guides to help you get the most out of the platform.
